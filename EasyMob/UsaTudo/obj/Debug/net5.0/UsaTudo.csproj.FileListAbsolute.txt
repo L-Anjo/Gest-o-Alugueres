@@ -1,0 +1,69 @@
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.exe
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.deps.json
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.runtimeconfig.json
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\refint\UsaTudo.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\ref\UsaTudo.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\BL.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\BO.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\DLL.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\BL.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\BO.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\bin\Debug\net5.0\DLL.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.CopyComplete
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.exe
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.deps.json
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.runtimeconfig.json
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.runtimeconfig.dev.json
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\BL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\BO.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\DLL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\BL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\BO.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\bin\Debug\net5.0\DLL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.AssemblyInfoInputs.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.AssemblyInfo.cs
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.CopyComplete
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\refint\UsaTudo.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.genruntimeconfig.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\UsaTudo\obj\Debug\net5.0\ref\UsaTudo.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.exe
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.deps.json
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.runtimeconfig.json
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.runtimeconfig.dev.json
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\UsaTudo.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\BL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\BO.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\DLL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\BL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\BO.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\bin\Debug\net5.0\DLL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.AssemblyInfoInputs.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.AssemblyInfo.cs
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.csproj.CopyComplete
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\refint\UsaTudo.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\UsaTudo.genruntimeconfig.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\UsaTudo\obj\Debug\net5.0\ref\UsaTudo.dll

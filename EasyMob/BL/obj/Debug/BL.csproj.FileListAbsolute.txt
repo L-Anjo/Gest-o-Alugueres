@@ -1,0 +1,33 @@
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\bin\Debug\BL.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\bin\Debug\BL.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\obj\Debug\BL.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\obj\Debug\BL.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\bin\Debug\BO.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\bin\Debug\DLL.dll
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\bin\Debug\BO.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\bin\Debug\DLL.pdb
+C:\Users\Asus\Desktop\Easy_Mob\EasyMob\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\bin\Debug\BL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\bin\Debug\BL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\bin\Debug\BO.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\bin\Debug\DLL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\bin\Debug\BO.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\bin\Debug\DLL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\obj\Debug\BL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob\BL\obj\Debug\BL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\bin\Debug\BL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\bin\Debug\BL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\bin\Debug\BO.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\bin\Debug\DLL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\bin\Debug\BO.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\bin\Debug\DLL.pdb
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\obj\Debug\BL.dll
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\2º Ano\POO\EasyMob2\EasyMob\BL\obj\Debug\BL.pdb
